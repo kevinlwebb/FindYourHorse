@@ -1,2 +1,5 @@
+dlib
+face_recognition
+imutils
 picamera[array]
 opencv-contrib-python==4.1.0.25
